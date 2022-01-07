@@ -1,0 +1,9 @@
+C:\Users\pkgam\OneDrive\Área de Trabalho\Nova pasta (5)\BankyInterfTest\obj\Debug\net5.0-windows\BankyInterf.vbproj.AssemblyReference.cache
+C:\Users\pkgam\OneDrive\Área de Trabalho\Nova pasta (5)\BankyInterfTest\obj\Debug\net5.0-windows\BankyInterf.Login.resources
+C:\Users\pkgam\OneDrive\Área de Trabalho\Nova pasta (5)\BankyInterfTest\obj\Debug\net5.0-windows\BankyInterf.Main.resources
+C:\Users\pkgam\OneDrive\Área de Trabalho\Nova pasta (5)\BankyInterfTest\obj\Debug\net5.0-windows\BankyInterf.Register.resources
+C:\Users\pkgam\OneDrive\Área de Trabalho\Nova pasta (5)\BankyInterfTest\obj\Debug\net5.0-windows\BankyInterf.Startscreen.resources
+C:\Users\pkgam\OneDrive\Área de Trabalho\Nova pasta (5)\BankyInterfTest\obj\Debug\net5.0-windows\BankyInterf.vbproj.GenerateResource.cache
+C:\Users\pkgam\OneDrive\Área de Trabalho\Nova pasta (5)\BankyInterfTest\obj\Debug\net5.0-windows\BankyInterf.dll
+C:\Users\pkgam\OneDrive\Área de Trabalho\Nova pasta (5)\BankyInterfTest\obj\Debug\net5.0-windows\ref\BankyInterf.dll
+C:\Users\pkgam\OneDrive\Área de Trabalho\Nova pasta (5)\BankyInterfTest\obj\Debug\net5.0-windows\BankyInterf.pdb
